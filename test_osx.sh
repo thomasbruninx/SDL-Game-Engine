@@ -1,0 +1,1 @@
+(cd bin/osx && ./game -c -s 800 600)
